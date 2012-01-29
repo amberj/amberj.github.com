@@ -1,5 +1,6 @@
 ---
-title: Amber Jain
+title: Redirecting to Amber Jain's home...
 ---
 
-Amber Jain
+### Redirecting to Amber Jain's home in 6 seconds...
+If you are not automatically redirected, please [click here](http://amberj.devio.us/)
